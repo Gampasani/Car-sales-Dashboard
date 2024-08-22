@@ -32,5 +32,6 @@ These dashboards are designed to provide a clear and comprehensive view of the a
 How to Use:
   Explore the Excel dashboard for a static, detailed analysis of car sales data.
   Interact with the Power BI dashboard for dynamic insights and data exploration.
+  
 Conclusion:
 Through these dashboards, my goal is to present car sales data in a way that’s both informative and visually engaging, making complex data accessible and actionable.
