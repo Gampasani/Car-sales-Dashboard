@@ -7,20 +7,24 @@ Hello, I'm Teja, a data enthusiast with a passion for turning raw data into insi
 Dashboard Overview:
 
 1. Excel Dashboard:
-    Key Metrics:
+
+   Key Metrics:
       Analysis of 31 car brands.
       Visualization of total kilometers driven across different brands.
       Total profit gained from car sales.
+
    Features:
       Top 10 Brands: A ranked list of brands based on their selling price.
       Transmission Mode Distribution: A donut chart showing the percentage of manual vs. automatic cars.
       Seller Type Breakdown: A pie chart illustrating the distribution of individual sellers, dealers, and trustmark dealers.
 
-2. Power BI Dashboard:
-     Key Metrics:
+3. Power BI Dashboard:
+
+    Key Metrics:
        Average selling price across different car brands.
        Average kilometers driven by brand.
-     Features:
+
+    Features:
        Brand Comparison: Interactive brand selection with a visual comparison of selling prices and kilometers driven.
        Fuel Type Distribution: Pie chart representation of fuel types (Diesel, Petrol, CNG, LPG) by brand.
        Top Selling Brands: Bar chart highlighting the top-selling car brands.
