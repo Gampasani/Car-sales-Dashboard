@@ -6,7 +6,7 @@ Car Sales Dashboard Analysis
 
 Introduction:
 
-Hello, I'm Teja, a data enthusiast with a passion for turning raw data into insightful visualizations. This repository contains two comprehensive car sales dashboards created using Excel and Power BI. These dashboards provide key insights into various aspects of car sales, including brand performance, transmission modes, and sales trends.
+Hello, I'm Teja, a data enthusiast with a passion for turning raw data into insightful visualizations. This repository contains the above two comprehensive car sales dashboards created using Excel and Power BI. These dashboards provide key insights into various aspects of car sales, including brand performance, transmission modes, and sales trends.
 
 Dashboard Overview:
 
@@ -38,6 +38,7 @@ These dashboards are designed to provide a clear and comprehensive view of the a
 How to Use:
   Explore the Excel dashboard for a static, detailed analysis of car sales data.
   Interact with the Power BI dashboard for dynamic insights and data exploration.
+  note:Install powerBi desktop on your system.
   
 Conclusion:
 Through these dashboards, my goal is to present car sales data in a way that’s both informative and visually engaging, making complex data accessible and actionable.
