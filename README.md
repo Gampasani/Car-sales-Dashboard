@@ -1,6 +1,6 @@
 Car Sales Dashboard Analysis
-![image](https://github.com/user-attachments/assets/6eb0dc3a-a7ae-4f0d-a049-c9bbc80fbe36)
-![image](https://github.com/user-attachments/assets/e6061fa9-be7f-46af-b024-902f1f8fec69)
+![image](https://github.com/user-attachments/assets/6eb0dc3a-a7ae-4f0d-a049-c9bbc80fbe36),![image](https://github.com/user-attachments/assets/79c25f08-0053-4975-bdfa-2f8418c11992)
+
 
 
 
