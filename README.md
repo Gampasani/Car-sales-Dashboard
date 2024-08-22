@@ -12,7 +12,6 @@ Dashboard Overview:
       Analysis of 31 car brands.
       Visualization of total kilometers driven across different brands.
       Total profit gained from car sales.
-
    Features:
       Top 10 Brands: A ranked list of brands based on their selling price.
       Transmission Mode Distribution: A donut chart showing the percentage of manual vs. automatic cars.
@@ -23,7 +22,6 @@ Dashboard Overview:
     Key Metrics:
        Average selling price across different car brands.
        Average kilometers driven by brand.
-
     Features:
        Brand Comparison: Interactive brand selection with a visual comparison of selling prices and kilometers driven.
        Fuel Type Distribution: Pie chart representation of fuel types (Diesel, Petrol, CNG, LPG) by brand.
