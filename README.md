@@ -1,4 +1,4 @@
-Teja's Car Sales Dashboard Analysis
+Car Sales Dashboard Analysis
 
 Introduction:
 
