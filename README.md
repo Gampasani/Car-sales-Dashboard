@@ -23,13 +23,10 @@ Dashboard Overview:
        Average selling price across different car brands.
        Average kilometers driven by brand.
     Features:
-       Brand Comparison: Interactive brand selection with a visual comparison of selling prices and kilometers driven.
-   
-       Fuel Type Distribution: Pie chart representation of fuel types (Diesel, Petrol, CNG, LPG) by brand.
-   
-       Top Selling Brands: Bar chart highlighting the top-selling car brands.
-   
-       Yearly Sales Trends: Line chart showing the count of car names by year and transmission type.
+       1.Interactive brand selection with a visual comparison of selling prices and kilometers driven.
+       2.Pie chart representation of fuel types (Diesel, Petrol, CNG, LPG) by brand.
+       3.Bar chart highlighting the top-selling car brands.
+       4.Line chart showing the count of car names by year and transmission type.
 
 Purpose:
 These dashboards are designed to provide a clear and comprehensive view of the automotive sales industry, enabling stakeholders to make data-driven decisions.
